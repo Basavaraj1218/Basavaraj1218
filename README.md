@@ -1,5 +1,5 @@
 **👋 Hi, I’m Basavaraj**
- - Currently pursuing MCA in bangalore-univercity. 
+ - Currently pursuing MCA in bangalore-university. 
 
 
 <!---
