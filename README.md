@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Basavaraj
- - Currently pursuing **MCA** in **Bangalore-University.**
+ - **#Fresher** **MCA** and **AWS** **re/Start Graduate** From **Bangalore-University.**
 
 A dedicated professional with a strong foundation in both software development and cloud computing, graduating from the AWS Restart program. My journey began with a passion for creating impactful software solutions, and the **AWS Restart** program has equipped me with robust skills in cloud technologies and AWS services such as EC2, S3, Lambda and more.
 
