@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basavaraj S Talawar</h1>
+<h1 align="center">Hi 👋, I'm Basavaraj1218 </h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 📫 How to reach me **basavarajstalwar2@gmail.com**
