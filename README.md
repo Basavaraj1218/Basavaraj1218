@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Basavaraj1218 </h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="left">A passionate software developer and open-source enthusiast. I love solving problems and building scalable, efficient systems using a variety of technologies. I believe in clean, maintainable code and strive to contribute to the community by creating reusable, well-documented projects.
+
+🚀 Currently working with:
+
+Languages: Python, JavaScript (Node.js),
+Web frameworks: React, Express.js, Django
+Databases: PostgreSQL, MongoDB, MySQL
+Tools: Docker, Kubernetes, Git, CI/CD, AWS, Terraform
+🌱 I'm currently learning more about:
+
+Cloud-native development
+AI/ML integration in web apps
+DevOps best practices
+🌍 Open source is where magic happens! I'm always open to collaborating on exciting projects or helping out with issues. Feel free to reach out if you want to connect, collaborate, or share knowledge.</h3>
 
 - 📫 How to reach me **basavarajstalwar2@gmail.com**
 
