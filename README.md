@@ -4,8 +4,11 @@
 🚀 Currently working with:
 
 Languages: Python, JavaScript (Node.js),
+
 Web frameworks: React, Express.js, Django
+
 Databases: PostgreSQL, MongoDB, MySQL
+
 Tools: Docker, Kubernetes, Git, CI/CD, AWS, Terraform
 🌱 I'm currently learning more about:
 
